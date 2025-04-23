@@ -1,0 +1,17 @@
+C:\ARQUITECTURA_SW\MyCosole\obj\Debug\net9.0\MyCosole.csproj.AssemblyReference.cache
+C:\ARQUITECTURA_SW\MyCosole\obj\Debug\net9.0\MyCosole.GeneratedMSBuildEditorConfig.editorconfig
+C:\ARQUITECTURA_SW\MyCosole\obj\Debug\net9.0\MyCosole.AssemblyInfoInputs.cache
+C:\ARQUITECTURA_SW\MyCosole\obj\Debug\net9.0\MyCosole.AssemblyInfo.cs
+C:\ARQUITECTURA_SW\MyCosole\obj\Debug\net9.0\MyCosole.csproj.CoreCompileInputs.cache
+C:\ARQUITECTURA_SW\MyCosole\bin\Debug\net9.0\MyCosole.exe
+C:\ARQUITECTURA_SW\MyCosole\bin\Debug\net9.0\MyCosole.deps.json
+C:\ARQUITECTURA_SW\MyCosole\bin\Debug\net9.0\MyCosole.runtimeconfig.json
+C:\ARQUITECTURA_SW\MyCosole\bin\Debug\net9.0\MyCosole.dll
+C:\ARQUITECTURA_SW\MyCosole\bin\Debug\net9.0\MyCosole.pdb
+C:\ARQUITECTURA_SW\MyCosole\bin\Debug\net9.0\Figgle.dll
+C:\ARQUITECTURA_SW\MyCosole\obj\Debug\net9.0\MyCosole.csproj.Up2Date
+C:\ARQUITECTURA_SW\MyCosole\obj\Debug\net9.0\MyCosole.dll
+C:\ARQUITECTURA_SW\MyCosole\obj\Debug\net9.0\refint\MyCosole.dll
+C:\ARQUITECTURA_SW\MyCosole\obj\Debug\net9.0\MyCosole.pdb
+C:\ARQUITECTURA_SW\MyCosole\obj\Debug\net9.0\MyCosole.genruntimeconfig.cache
+C:\ARQUITECTURA_SW\MyCosole\obj\Debug\net9.0\ref\MyCosole.dll

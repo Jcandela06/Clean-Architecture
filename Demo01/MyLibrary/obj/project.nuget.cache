@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0B3bJrNlcmo=",
+  "success": true,
+  "projectFilePath": "C:\\ARQUITECTURA_SW\\Demo01\\MyLibrary\\MyLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Juan Manuel Candela\\.nuget\\packages\\figgle\\0.5.1\\figgle.0.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ARQUITECTURA_SW\\Demo01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10868D38-562F-4678-983E-5DDBDD81E71A}|MyLibrary\\MyLibrary.csproj|c:\\arquitectura_sw\\demo01\\mylibrary\\figglewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10868D38-562F-4678-983E-5DDBDD81E71A}|MyLibrary\\MyLibrary.csproj|solutionrelative:mylibrary\\figglewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A903F5B-3D23-4AEC-B008-0A88AE808A4F}|MyConsoleApp\\MyConsoleApp.csproj|c:\\arquitectura_sw\\demo01\\myconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A903F5B-3D23-4AEC-B008-0A88AE808A4F}|MyConsoleApp\\MyConsoleApp.csproj|solutionrelative:myconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ARQUITECTURA_SW\\Demo01\\MyConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyConsoleApp\\Program.cs",
+              "ToolTip": "C:\\ARQUITECTURA_SW\\Demo01\\MyConsoleApp\\Program.cs",
+              "RelativeToolTip": "MyConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:45:38.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FiggleWriter.cs",
+              "DocumentMoniker": "C:\\ARQUITECTURA_SW\\Demo01\\MyLibrary\\FiggleWriter.cs",
+              "RelativeDocumentMoniker": "MyLibrary\\FiggleWriter.cs",
+              "ToolTip": "C:\\ARQUITECTURA_SW\\Demo01\\MyLibrary\\FiggleWriter.cs",
+              "RelativeToolTip": "MyLibrary\\FiggleWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:43:38.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

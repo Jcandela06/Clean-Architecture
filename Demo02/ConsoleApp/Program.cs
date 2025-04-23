@@ -1,9 +1,17 @@
 ﻿using MyLibrary;
 
-int i = 5;
-string Name = "Hello";
+Secretary Maria = new Secretary();
+Maria.Name = "Maria";
+Manager Pedro = new Manager();
+Pedro.Name = "Pedro";
+Developer Miguel = new Developer(); 
+Miguel.Name = "Miguel";
 
-Product Leche;
+WriteEmployeeInfo(Maria);
+WriteEmployeeInfo(Pedro);
+WriteEmployeeInfo(Miguel);
 
-Leche = new Product(1, "Leche Entera", 19, 100);
-
+void WriteEmployeeInfo(Employee employee)
+{ 
+    Console.WriteLine($"{employee.Name}: {employee.CalculateMonthlyPayment()}");
+}

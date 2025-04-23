@@ -1,0 +1,12 @@
+C:\ARQUITECTURA_SW\Demo02\MyLibrary\bin\Debug\net8.0\MyLibrary.deps.json
+C:\ARQUITECTURA_SW\Demo02\MyLibrary\bin\Debug\net8.0\MyLibrary.dll
+C:\ARQUITECTURA_SW\Demo02\MyLibrary\bin\Debug\net8.0\MyLibrary.pdb
+C:\ARQUITECTURA_SW\Demo02\MyLibrary\obj\Debug\net8.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\ARQUITECTURA_SW\Demo02\MyLibrary\obj\Debug\net8.0\MyLibrary.AssemblyInfoInputs.cache
+C:\ARQUITECTURA_SW\Demo02\MyLibrary\obj\Debug\net8.0\MyLibrary.AssemblyInfo.cs
+C:\ARQUITECTURA_SW\Demo02\MyLibrary\obj\Debug\net8.0\MyLibrary.csproj.CoreCompileInputs.cache
+C:\ARQUITECTURA_SW\Demo02\MyLibrary\obj\Debug\net8.0\MyLibrary.sourcelink.json
+C:\ARQUITECTURA_SW\Demo02\MyLibrary\obj\Debug\net8.0\MyLibrary.dll
+C:\ARQUITECTURA_SW\Demo02\MyLibrary\obj\Debug\net8.0\refint\MyLibrary.dll
+C:\ARQUITECTURA_SW\Demo02\MyLibrary\obj\Debug\net8.0\MyLibrary.pdb
+C:\ARQUITECTURA_SW\Demo02\MyLibrary\obj\Debug\net8.0\ref\MyLibrary.dll

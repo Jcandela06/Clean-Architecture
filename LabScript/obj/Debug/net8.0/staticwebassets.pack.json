@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\ARQUITECTURA_SW\\LabScript\\Pages\\Counter.razor.js",
+      "PackagePath": "staticwebassets\\Pages\\Counter.razor.js"
+    },
+    {
+      "Id": "C:\\ARQUITECTURA_SW\\LabScript\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\ARQUITECTURA_SW\\LabScript\\obj\\Debug\\net8.0\\scopedcss\\bundle\\LabScript.styles.css",
+      "PackagePath": "staticwebassets\\LabScript.styles.css"
+    },
+    {
+      "Id": "C:\\ARQUITECTURA_SW\\LabScript\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\ARQUITECTURA_SW\\LabScript\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\ARQUITECTURA_SW\\LabScript\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\ARQUITECTURA_SW\\LabScript\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\ARQUITECTURA_SW\\LabScript\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\ARQUITECTURA_SW\\LabScript\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\ARQUITECTURA_SW\\LabScript\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LabScript.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LabScript.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LabScript.props",
+      "PackagePath": "build\\LabScript.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LabScript.props",
+      "PackagePath": "buildMultiTargeting\\LabScript.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LabScript.props",
+      "PackagePath": "buildTransitive\\LabScript.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -9,8 +9,7 @@
       "NorthWind.ConsoleApp/1.0.0": {
         "dependencies": {
           "Microsoft.Extensions.Hosting": "9.0.4",
-          "NorthWind.Entities": "1.0.0",
-          "NorthWind.Writers": "1.0.0"
+          "NorthWind.IoC": "1.0.0"
         },
         "runtime": {
           "NorthWind.ConsoleApp.dll": {}
@@ -446,6 +445,18 @@
           }
         }
       },
+      "NorthWind.Core/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.4",
+          "NorthWind.Entities": "1.0.0"
+        },
+        "runtime": {
+          "NorthWind.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "NorthWind.Entities/1.0.0": {
         "runtime": {
           "NorthWind.Entities.dll": {
@@ -454,8 +465,21 @@
           }
         }
       },
+      "NorthWind.IoC/1.0.0": {
+        "dependencies": {
+          "NorthWind.Core": "1.0.0",
+          "NorthWind.Writers": "1.0.0"
+        },
+        "runtime": {
+          "NorthWind.IoC.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "NorthWind.Writers/1.0.0": {
         "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.4",
           "NorthWind.Entities": "1.0.0"
         },
         "runtime": {
@@ -697,7 +721,17 @@
       "path": "system.text.json/9.0.4",
       "hashPath": "system.text.json.9.0.4.nupkg.sha512"
     },
+    "NorthWind.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "NorthWind.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NorthWind.IoC/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

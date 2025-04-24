@@ -54,3 +54,7 @@ C:\ARQUITECTURA_SW\NorthWind\NorthWind.ConsoleApp\bin\Debug\net8.0\System.Text.J
 C:\ARQUITECTURA_SW\NorthWind\NorthWind.ConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
 C:\ARQUITECTURA_SW\NorthWind\NorthWind.ConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
 C:\ARQUITECTURA_SW\NorthWind\NorthWind.ConsoleApp\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\ARQUITECTURA_SW\NorthWind\NorthWind.ConsoleApp\bin\Debug\net8.0\NorthWind.Core.dll
+C:\ARQUITECTURA_SW\NorthWind\NorthWind.ConsoleApp\bin\Debug\net8.0\NorthWind.IoC.dll
+C:\ARQUITECTURA_SW\NorthWind\NorthWind.ConsoleApp\bin\Debug\net8.0\NorthWind.IoC.pdb
+C:\ARQUITECTURA_SW\NorthWind\NorthWind.ConsoleApp\bin\Debug\net8.0\NorthWind.Core.pdb

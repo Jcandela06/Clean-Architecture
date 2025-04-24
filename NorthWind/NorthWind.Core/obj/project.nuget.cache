@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jVj2xbCCHlo=",
+  "success": true,
+  "projectFilePath": "C:\\ARQUITECTURA_SW\\NorthWind\\NorthWind.Core\\NorthWind.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Juan Manuel Candela\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.4\\microsoft.extensions.dependencyinjection.abstractions.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

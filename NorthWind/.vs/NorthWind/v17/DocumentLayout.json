@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\ARQUITECTURA_SW\\NorthWind\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FEBEF278-98FD-4E5F-B437-6F44352C0EE9}|NorthWind.Entities\\NorthWind.Entities.csproj|c:\\arquitectura_sw\\northwind\\northwind.entities\\valueobjects\\useraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEBEF278-98FD-4E5F-B437-6F44352C0EE9}|NorthWind.Entities\\NorthWind.Entities.csproj|solutionrelative:northwind.entities\\valueobjects\\useraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10EDC01C-FE22-4DC5-80EB-A29B9E73B258}|NorthWind.ConsoleApp\\NorthWind.ConsoleApp.csproj|c:\\arquitectura_sw\\northwind\\northwind.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10EDC01C-FE22-4DC5-80EB-A29B9E73B258}|NorthWind.ConsoleApp\\NorthWind.ConsoleApp.csproj|solutionrelative:northwind.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserAction.cs",
-              "DocumentMoniker": "C:\\ARQUITECTURA_SW\\NorthWind\\NorthWind.Entities\\ValueObjects\\UserAction.cs",
-              "RelativeDocumentMoniker": "NorthWind.Entities\\ValueObjects\\UserAction.cs",
-              "ToolTip": "C:\\ARQUITECTURA_SW\\NorthWind\\NorthWind.Entities\\ValueObjects\\UserAction.cs",
-              "RelativeToolTip": "NorthWind.Entities\\ValueObjects\\UserAction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ARQUITECTURA_SW\\NorthWind\\NorthWind.ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "NorthWind.ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\ARQUITECTURA_SW\\NorthWind\\NorthWind.ConsoleApp\\Program.cs",
+              "RelativeToolTip": "NorthWind.ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T16:21:43.986Z",
+              "WhenOpened": "2025-04-24T17:12:59.704Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,16 @@
+C:\ARQUITECTURA_SW\NorthWind\NorthWind.Writers\bin\Debug\net8.0\NorthWind.Writers.deps.json
+C:\ARQUITECTURA_SW\NorthWind\NorthWind.Writers\bin\Debug\net8.0\NorthWind.Writers.dll
+C:\ARQUITECTURA_SW\NorthWind\NorthWind.Writers\bin\Debug\net8.0\NorthWind.Writers.pdb
+C:\ARQUITECTURA_SW\NorthWind\NorthWind.Writers\bin\Debug\net8.0\NorthWind.Entities.dll
+C:\ARQUITECTURA_SW\NorthWind\NorthWind.Writers\bin\Debug\net8.0\NorthWind.Entities.pdb
+C:\ARQUITECTURA_SW\NorthWind\NorthWind.Writers\obj\Debug\net8.0\NorthWind.Writers.csproj.AssemblyReference.cache
+C:\ARQUITECTURA_SW\NorthWind\NorthWind.Writers\obj\Debug\net8.0\NorthWind.Writers.GeneratedMSBuildEditorConfig.editorconfig
+C:\ARQUITECTURA_SW\NorthWind\NorthWind.Writers\obj\Debug\net8.0\NorthWind.Writers.AssemblyInfoInputs.cache
+C:\ARQUITECTURA_SW\NorthWind\NorthWind.Writers\obj\Debug\net8.0\NorthWind.Writers.AssemblyInfo.cs
+C:\ARQUITECTURA_SW\NorthWind\NorthWind.Writers\obj\Debug\net8.0\NorthWind.Writers.csproj.CoreCompileInputs.cache
+C:\ARQUITECTURA_SW\NorthWind\NorthWind.Writers\obj\Debug\net8.0\NorthWind.Writers.sourcelink.json
+C:\ARQUITECTURA_SW\NorthWind\NorthWind.Writers\obj\Debug\net8.0\NorthWin.84729D45.Up2Date
+C:\ARQUITECTURA_SW\NorthWind\NorthWind.Writers\obj\Debug\net8.0\NorthWind.Writers.dll
+C:\ARQUITECTURA_SW\NorthWind\NorthWind.Writers\obj\Debug\net8.0\refint\NorthWind.Writers.dll
+C:\ARQUITECTURA_SW\NorthWind\NorthWind.Writers\obj\Debug\net8.0\NorthWind.Writers.pdb
+C:\ARQUITECTURA_SW\NorthWind\NorthWind.Writers\obj\Debug\net8.0\ref\NorthWind.Writers.dll
